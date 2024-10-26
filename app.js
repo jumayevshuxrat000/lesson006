@@ -1,0 +1,5 @@
+confirm('Hello my bro')
+prompt('Pleace your mood')
+confirm('Welcome to us website')
+prompt('Enter your name pleace')
+confirm('US website security ')

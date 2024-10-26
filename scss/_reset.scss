@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Oswald:wght@200..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", serif;
+}
+.container__header{
+    max-width: 1490px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+.container {
+    max-width: 1430px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+.container__info {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+img{
+    max-width: 100%;
+}
+li{
+    list-style: none;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+button, input{
+    outline: none;
+}
+body {
+    background-color: #FCDC00;;
+}
